@@ -68,6 +68,8 @@ python train_one.py --model resnet32 --dataset CIFAR10 --ind
 
 **Notes:** The codes in this repository is merged from different sources, and we have not tested them thoroughly. Hence, if you have any questions, please contact us without hesitation.
 
+The results may slightly vary as the environment changed, just run it again! (Thanks the feedback from [Zheng Li][https://github.com/zhengli427])
+
 Email: defchern **&alpha;** t zju dot edu d **&omicron;** t cn
 
 
