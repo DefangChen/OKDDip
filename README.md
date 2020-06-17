@@ -70,6 +70,8 @@ python train_one.py --model resnet32 --dataset CIFAR10 --ind
 
 The results may slightly vary as the environment changed, just run it again! (Thanks the feedback from [Zheng Li](https://github.com/zhengli427))
 
+For reproducing OKDDip in Table 4, besides setting choose_E equal to True, we need to replace group leader by auxiliary peer to make the number of base learner equal.
+
 Email: defchern **&alpha;** t zju dot edu d **&omicron;** t cn
 
 
