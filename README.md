@@ -79,11 +79,11 @@ Email: defchern **&alpha;** t zju dot edu d **&omicron;** t cn
 ## Reference
 If you find this repository useful, please consider citing the following paper:
 ```
-@article{chen2019online,
-  title={Online Knowledge Distillation with Diverse Peers},
+@inproceedings{chen2020online,
+  title={Online Knowledge Distillation with Diverse Peers.},
   author={Chen, Defang and Mei, Jian-Ping and Wang, Can and Feng, Yan and Chen, Chun},
-  journal={arXiv preprint arXiv:1912.00350},
-  year={2019}
+  booktitle={AAAI},
+  pages={3430--3437},
+  year={2020}
 }
-
 ```
